@@ -1,0 +1,14 @@
+{
+  "asset_class": "Real Estate Wholesaling CRM Excel Template",
+  "build_parameters": {
+    "macro_free": true,
+    "responsive_scale_target": "85%",
+    "canvas_base": "Matte-Black Theme"
+  },
+  "operational_matrices": [
+    "acquisition_lead_pipelines",
+    "assignable_contract_matrices",
+    "double_closing_margin_trackers",
+    "follow_up_grids"
+  ]
+}
